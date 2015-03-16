@@ -44,8 +44,8 @@ Write an object to the collection.
 
 Force an insert into the collection.
 
-[npm-image]: https://img.shields.io/npm/v/mongodb.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/mongodb
+[npm-image]: https://img.shields.io/npm/v/collector-mongodb.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/collector-mongodb
 [github-tag]: http://img.shields.io/github/tag/collectors/mongodb.svg?style=flat-square
 [github-url]: https://github.com/collectors/mongodb/tags
 [travis-image]: https://img.shields.io/travis/collectors/mongodb.svg?style=flat-square
@@ -54,9 +54,9 @@ Force an insert into the collection.
 [coveralls-url]: https://coveralls.io/r/collectors/mongodb
 [david-image]: http://img.shields.io/david/collectors/mongodb.svg?style=flat-square
 [david-url]: https://david-dm.org/collectors/mongodb
-[license-image]: http://img.shields.io/npm/l/mongodb.svg?style=flat-square
+[license-image]: http://img.shields.io/npm/l/collector-mongodb.svg?style=flat-square
 [license-url]: LICENSE
-[downloads-image]: http://img.shields.io/npm/dm/mongodb.svg?style=flat-square
-[downloads-url]: https://npmjs.org/package/mongodb
+[downloads-image]: http://img.shields.io/npm/dm/collector-mongodb.svg?style=flat-square
+[downloads-url]: https://npmjs.org/package/collector-mongodb
 [gittip-image]: https://img.shields.io/gratipay/jonathanong.svg?style=flat-square
 [gittip-url]: https://gratipay.com/jonathanong/
