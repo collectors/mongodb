@@ -14,7 +14,7 @@
   "devDependencies": {
     "istanbul": "0",
     "mocha": "2",
-    "mongodb": "^1.4.34",
+    "mongodb": "^1.4.40",
     "standardberry": "*"
   },
   "scripts": {
