@@ -12,7 +12,7 @@
     "readable-stream": "^1.0.33"
   },
   "devDependencies": {
-    "istanbul": "0",
+    "istanbul": "0.4.2",
     "mocha": "2",
     "mongodb": "^1.4.34",
     "standardberry": "*"
